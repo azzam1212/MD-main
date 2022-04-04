@@ -5,9 +5,10 @@ Script WhatsApp Bot Multi Device
 This Script is for everyone, not for Sale
 
 <p align="center">
-	<img src="https://telegra.ph/file/fe78e68b823361672f6af.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://ibb.co/vZyy3LM" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">NahBotz-MD</h1>
+<h1 align="center">e
+-MD</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
